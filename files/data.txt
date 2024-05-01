@@ -1,0 +1,10 @@
+[
+{'tTypeId':1
+'vehicleType': '' ,
+'owner': 'sana' ,
+'phoneNumber': '123456' ,
+'seatAvailable': '45ss' ,
+'travelTime': '2023-09-02' ,
+'arrivalTime': '2023-12-02' ,
+'price': '$88'}
+]

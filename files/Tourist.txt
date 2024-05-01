@@ -1,0 +1,16 @@
+[
+{'TouristID' : 1
+ 'FirdtName' : sana
+ 'LastName' : assi
+ 'Nationality' : kurd
+ 'Email' : sanaassi22@gmail.com
+ 'PhoneNO' : 7503453432
+ 'Address' :hawler
+ 'Gender' : femail
+ 'Age' : 20
+ 'UserName' : Sana-assi
+ 'Password' : aaa22345
+ 'PassportNo' : 34322sd234
+ 'Disabilities' : no
+ 'DisabledNeeds' : no}
+]
